@@ -2,7 +2,7 @@
 This document serves as a comprehensive guide for understanding and utilizing the project. It contains detailed information about the project's purpose, functionality, and implementation.
 
 # Introduction
-Welcome to this documentation, which aims to
+Welcome to this documentation, which aims to get you familiarize with this shopping app.
 
 # User
 This is a README file for an E-commerce Flutter application developed using the Provider package for efficient state management, reliable support, and compatibility. The application leverages Firebase real-time database services for data storage, retrieval, and CRUD operations on user-owned products. Several features have been implemented to enhance the user experience, including user authentication, cart and order management, favorites curation, and automatic login with animations and transitions.
